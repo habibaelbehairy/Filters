@@ -1,7 +1,7 @@
 # Filters
 This C++ application is designed to demonstrate basic image filtering operations.<br />
 It provides a simple framework for applying various filters to images.<br />
-Authors: Habiba Alaa Mohamed , Shahd Salah Eldin , Shahd Salah El-Dein <br />
+Authors: Habiba Alaa Mohamed , Shahd Salah Eldin , Shrouk Tarek <br />
 Filters Implemented<br />
 1-Black_And_White<br />
 2-Invert<br />
